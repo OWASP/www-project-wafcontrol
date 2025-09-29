@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Ramin Ghorbani](mailto:[ramin.ghorbani@owasp.org|mailto:ramin.ghorbani@owasp.org])
+* [](mailto:[ramin.ghorbani@owasp.org|mailto:ramin.ghorbani@owasp.org])
+* [Majid Adigozalpour](mailto:[ramin.ghorbani@owasp.org|mailto:ramin.ghorbani@owasp.org])
