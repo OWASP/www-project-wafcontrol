@@ -31,26 +31,27 @@ OWASP OWC is free to use. It is licensed under the [Apache Software License vers
 
 ## Key Features
 
+
 ✅ **Attack Control**  
-- All Attacks Log – Centralized view of all incoming attacks with rich metadata (attack type, IP, country, triggered rule, targeted domain, timestamp).  
-- Critical WAF Attacks – Focused dashboard for high-severity threats (SQLi, RCE, LFI, XSS, etc.) with complete forensic details.  
-- Top Attackers – Identify the most aggressive IPs based on attack volume and patterns.  
+- All Attacks Log : Centralized view of all incoming attacks with rich metadata (attack type, IP, country, triggered rule, targeted domain, timestamp).  
+- Critical WAF Attacks : Focused dashboard for high-severity threats (SQLi, RCE, LFI, XSS, etc.) with complete forensic details.  
+- Top Attackers : Identify the most aggressive IPs based on attack volume and patterns.  
 
 ✅ **Rule Management**  
-- Rule Browser & Editor – Load, view, and edit all OWASP CRS rules directly in the dashboard.  
-- Rule Viewer by ID – Categorized rule inspection with search and filter options.  
-- Enable/Disable Controls – Quickly toggle specific rules without touching configuration files.  
+- Rule Browser & Editor : Load, view, and edit all OWASP CRS rules directly in the dashboard.  
+- Rule Viewer by ID : Categorized rule inspection with search and filter options.  
+- Enable/Disable Controls : Quickly toggle specific rules without touching configuration files.  
 
 ✅ **CRS Control**  
-- Version Switcher – Fetch and switch between CRS releases from GitHub in one click.  
-- CRS & ModSecurity Settings – Full GUI control for advanced settings:  
-- Custom Rules – Create and manage personalized rules with support for transformations, chaining, tags, and severity levels.  
+- Version Switcher : Fetch and switch between CRS releases from GitHub in one click.  
+- CRS & ModSecurity Settings : Full GUI control for advanced settings:  
+- Custom Rules : Create and manage personalized rules with support for transformations, chaining, tags, and severity levels.  
 
 ✅ **System & Security**  
-- Automated WAF Installation – WAFControl fully automates the setup of ModSecurity + OWASP CRS on both Nginx and Apache web servers.  
+- Automated WAF Installation : WAFControl fully automates the setup of ModSecurity + OWASP CRS on both Nginx and Apache web servers.  
   With just a few clicks, administrators can prepare their servers, install all required dependencies, and deploy a production-ready WAF — without dealing with complex manual configurations.  
-- Unified Dashboard Management – Once installed, both Nginx- and Apache-based environments can be managed seamlessly through the same intuitive web-based GUI.  
-- Secure Authentication – Built-in admin panel with secure login (2FA-ready).  
+- Unified Dashboard Management : Once installed, both Nginx- and Apache-based environments can be managed seamlessly through the same intuitive web-based GUI.  
+- Secure Authentication : Built-in admin panel with secure login (2FA-ready).  
 
 OWASP WAFControl is ready to serve as a robust open-source GUI for ModSecurity + CRS management, with a strong long-term vision for innovation in WAF usability and security intelligence.
 
