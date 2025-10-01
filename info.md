@@ -6,10 +6,7 @@
 * [Version 1.0.0](https://github.com/wafcontrol/wafcontrol/releases/tag/v1.0.0)
 
 ### Downloads or Social Links
-* [Installation Tutorial](https://wafcontrol.org/docs/deployment/install/)
-* [Docker Image](https://hub.docker.com/) 
-* [Twitter](https://twitter.com/wafcontrol)
-* [Slack channel](https://owasp.slack.com/)
+* [Installation Tutorial](https://wafcontrol.org/docs/)
 
 ### Code Repository
 * [GitHub](https://github.com/wafcontrol/wafcontrol/)
