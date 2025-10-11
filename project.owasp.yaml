@@ -1,0 +1,23 @@
+audience:
+  - defender
+leaders:
+  - name: Ramin Ghorbani
+    email: ramin.ghorbani@owasp.org
+  - name: Majid Adigozalpour
+    email: majid.adigozalpour@owasp.org
+level: 2
+name: OWASP WAFControl
+pitch: The first modern, open-source web-based dashboard for managing ModSecurity and OWASP CRS with zero command-line complexity.
+repositories:
+  - name: www-project-wafcontrol
+    url: https://github.com/OWASP/www-project-wafcontrol
+    description: OWASP Foundation web repository
+  - name: wafcontrol
+    url: https://github.com/wafcontrol/wafcontrol
+    description: OWASP WafControl Project
+tags:
+  - owc
+  - custom-tag-1
+  - custom-tag-2
+type: code
+website: https://owasp.org/www-project-wafcontrol
