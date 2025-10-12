@@ -17,7 +17,6 @@ repositories:
     description: OWASP WafControl Project
 tags:
   - owc
-  - custom-tag-1
-  - custom-tag-2
+  - wafcontrol
 type: code
 website: https://owasp.org/www-project-wafcontrol
