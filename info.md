@@ -10,6 +10,8 @@
 
 ### Code Repository
 * [GitHub](https://github.com/wafcontrol/wafcontrol/)
+* * [GitHub](https://github.com/wafcontrol/install/)
+
 
 ### Change Log
 * [See Releases](https://github.com/wafcontrol/wafcontrol/releases)
